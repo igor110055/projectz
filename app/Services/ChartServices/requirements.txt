@@ -1,0 +1,7 @@
+mysql-connector-python
+pandas
+numpy
+matplotlib
+mplfinance
+stockstats
+pandas_datareader
